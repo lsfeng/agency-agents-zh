@@ -756,6 +756,7 @@ cd /your/project
 
 | 项目 | 说明 |
 |------|------|
+| [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 多智能体编排引擎 — 用 YAML 编排 186 个角色协作，支持 DeepSeek/Claude/OpenAI/Ollama，零代码 |
 | [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | AI 编程超能力 · 中文版 — 17 个 skills，让你的 AI 编程助手真正会干活 |
 
 ---
